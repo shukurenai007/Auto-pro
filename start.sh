@@ -7,6 +7,9 @@ else
   git clone $UPSTREAM_REPO /auto-pro
 fi
 cd /auto-pro
+
 pip3 install -U -r requirements.txt
+
 echo "Starting Bot...."
+
 python3 bot.py
