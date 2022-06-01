@@ -34,7 +34,7 @@ Source: <a href='https://github.com'>GitHub - Click here 👈</a>
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Auto-pro should have admin privillage.
+1. NAGI SANZENIN should have admin privillage.
 2. Only admins can add filters in a chat.
 3. Alert buttons have a limit of 64 characters.
 
@@ -46,15 +46,15 @@ Source: <a href='https://github.com'>GitHub - Click here 👈</a>
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- NAGI SANZENIN support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. IMDb supports buttons with any telegram media type.
+2. NAGI SANZENIN supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/HollywoodNights)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -113,7 +113,7 @@ Paste some texts or documents on a website!
 • /paste [reply] - paste the replied text on Pasty
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -125,7 +125,7 @@ Do as you wish with telegra.ph module!
 • /tm or /txt - upload supported media (within 5MB) to telegraph.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -137,9 +137,10 @@ Get information about something!
 • /id - get id of a specified user.
 • /info  - get information about a user.
 • /json - get the json details of a message.
+• /myinfo - Get Your Details On Inline.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -149,7 +150,7 @@ Get information about something!
 • /torrent or /tor <movie name>: Get Your Torrent Link From Various Resource.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -161,7 +162,7 @@ Translate texts to a specific language!
 • /tr [language code][reply] - translate replied message to specific language.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
 
@@ -174,7 +175,7 @@ Search many things without leaving telegram!
 • /search  - get the film information from various sources.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • More search tools can be found on inline.
 • Those commands works on both pm and group."""
 
@@ -186,7 +187,7 @@ Need to delete lots of messages? That's what purges are for!
 • /purge - delete all messages from the replied to message, to the current message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on group.
 • These commands can be used by Only admin."""
 
@@ -208,7 +209,7 @@ This module allows you to do that easily, by exposing some common actions, so ev
 -> <code>/tmute @username 2h</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on group.
 • These commands can be used by Only admin."""
 
@@ -221,7 +222,7 @@ All the pin related commands can be found here; keep your chat up to date on the
 • /unpin: Unpin the current pinned message. If used as a reply, unpins the replied to message.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works only group.
 • These commands can be used by Only admin."""
 
@@ -267,7 +268,7 @@ Some dank memes for fun or whatever!
 • /runs strings
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -282,7 +283,7 @@ Some URLs is Shortner
 <code>/short https://t.me/josprojects</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -294,7 +295,7 @@ A module to convert text to voice with language support.
 • /tts - Reply to any text message with language code to convert as audio.
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -311,7 +312,7 @@ Music download modules, for those who love music.
 <b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -327,7 +328,7 @@ There Is Nothing To Know More. Send Me The Limit Of Your Password.
 • Only Digits Are Allowed
 • Maximum Allowed Digits Till 84 
 (I Can't Generate Passwords Above The Length 84)
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -339,7 +340,7 @@ a bot to create a link to share text in the telegram.
 • /share (text or reply to message)
 
 <b>NOTE:</b>
-• IMDb should have admin privillage.
+• NAGI SANZENIN should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
