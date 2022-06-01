@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/shukurenai007/auto-pro.git /auto-pro
+  git clone https://github.com/shukurenai007/Auto-pro.git /Auto-pro
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /auto-pro
+  git clone $UPSTREAM_REPO /Auto-pro
 fi
-cd /auto-pro
+cd /Auto-pro
 
 pip3 install -U -r requirements.txt
 
