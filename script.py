@@ -122,7 +122,7 @@ Paste some texts or documents on a website!
 Do as you wish with telegra.ph module!
 
 <b>Commands and Usage:</b>
-• /tm or / - upload supported media (within 5MB) to telegraph.
+• /tm or /txt - upload supported media (within 5MB) to telegraph.
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
